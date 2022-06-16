@@ -38,6 +38,7 @@ bower_components
 build/Release
 
 # Dependency directories
+node_modules
 node_modules/
 jspm_packages/
 
@@ -119,6 +120,8 @@ dist
 .DS_Store
 config.js
 codesnippits.js
+
+.Rhistory
 
 # some png files
 .png
